@@ -1,0 +1,11 @@
+.button {
+    -fx-background-radius: 10;        /* Bordes redondeados */
+    -fx-font-family: "Century Gothic";/* Fuente */
+    -fx-font-size: 16px;              /* Tamaño de la fuente */
+    -fx-background-color: #4CAF50;    /* Color de fondo */
+    -fx-text-fill: white;             /* Color del texto */
+}
+
+.button:hover {
+    -fx-background-color: #45a049;    /* Color de fondo al pasar el ratón */
+}
